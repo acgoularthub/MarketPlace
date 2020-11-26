@@ -1,7 +1,10 @@
 # UERN
 [Universidade do Estado do Rio Grande do Norte - UERN](http://portal.uern.br/)
+
 [Faculdade de Ciências Exatas e Naturais - FANAT](http://fanat.uern.br/default.asp?item=faculdade-fanat-apresentacao)
+
 [Departamento de Informática - DI](http://fanat2.uern.br/di/)
+
 Trabalho referente a disciplina de Programação Avançada.
 
 ## Loja Virtual
