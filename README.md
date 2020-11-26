@@ -4,7 +4,7 @@ Trabalho referente a disciplina de Programação Avançada.
 ## Loja Virtual
 Repositório destinado ao desenvolvimento de uma loja virtual, pela equipe ExSale Inc. 
 
-##Tecnologias/Linguagem utilizadas
+## Tecnologias/Linguagem utilizadas
 
 Angular (Node), TypeScript, Bootstrap e Firebase.
 
