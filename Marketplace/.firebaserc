@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularcrud-c6635": {
+      "hosting": {
+        "Marketplace": [
+          "angularcrud-c6635"
+        ]
+      }
+    }
+  }
+}

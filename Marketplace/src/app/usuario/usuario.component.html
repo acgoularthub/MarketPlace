@@ -1,1 +1,13 @@
-<button type="button" class="btn btn-primary btn-lg">Autenticação com conta Google</button>
+<div>
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Faça seu login usando sua Conta Google!</h5>
+        <p class="card-text">Tenha acesso aos nossos produtos através desse Login!</p>
+        <button type="button" class="btn btn-primary btn-lg" (click)="loginGoogle()">Autenticação com conta Google</button>
+        <div *ngIf="auth.user | async as user;">
+          <h1>Olá {{ user.displayName }}!</h1>
+          <button type="button" class="btn btn primary btn-lg" (click)="logoutGoogle()">Logout</button>
+        </div>
+      </div>
+    </div>
+</div>
