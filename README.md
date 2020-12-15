@@ -5,7 +5,7 @@
 
 [Departamento de Informática - DI](http://fanat2.uern.br/di/)
 
-##Programação Avançada
+### Programação Avançada
 
 #### Loja Virtual
 Repositório destinado ao desenvolvimento de uma loja virtual, pela equipe ExSale Inc.
